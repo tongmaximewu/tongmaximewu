@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tong</h1>
 <h3 align="center">A passionate software developer.</h3>
 
-- 🔭 I’m currently working on **OMW - Never be late unnoticed!**
+- 🔭 I’m currently working on **preparing for Hackathon!**
 
 - 👨‍💻 All of my projects are available at [coming soon!](coming soon!)
 
