@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maxime W</h1>
 <h3 align="center">A passionate software developer.</h3>
 
-- 🔭 I’m currently working on **preparing for Hackathon!**
+- 🔭 I’m currently working on **the bass guitar**
 
-- 👨‍💻 All of my projects are available at [coming soon!](coming soon!)
+- 👨‍💻 Some of my projects are available at https://tongmaximewu.vercel.app 
 
 - 📫 How to reach me **twunit01@gmail.com**
 
