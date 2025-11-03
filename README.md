@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Maxime W</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h1 align="center">Hi 👋, I'm Max</h1>
+<h3 align="center">Software engineer</h3>
 
-- 🔭 I’m currently working on **the bass guitar**
+- 🔭 I’m currently working on **leetcode** :)
 
 - 👨‍💻 Some of my projects are available at https://tongmaximewu.vercel.app 
 
