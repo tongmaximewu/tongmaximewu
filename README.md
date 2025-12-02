@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **comp programming** :)
 
-- 👨‍💻 Some of my projects are available at https://tongmaximewu.vercel.app 
-
 - 📫 How to reach me **twunit01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
