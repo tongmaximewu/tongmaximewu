@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Software engineer</h3>
 
-- 🔭 I’m currently working on **SHIPPING PRS ON MY WORK ACCOUNT!** :)
+- 🔭 I’m currently working on ** inactive here, pushing pr's on work account** 
 
 - 📫 How to reach me **twunit01@gmail.com**
 
